@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-spock",
+  "version": "0.0.1",
+  "description": "An example Rock, Paper, Spock game engine that can easily be expanded to include such as items as 'dynamite'.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snoj/rock-paper-spock.git"
+  },
+  "keywords": [
+    "rock",
+    "paper",
+    "scissors",
+    "lizard",
+    "spock",
+    "beats"
+  ],
+  "author": "Josh Erickson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snoj/rock-paper-spock/issues"
+  }
+}
